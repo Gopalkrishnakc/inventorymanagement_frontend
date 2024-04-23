@@ -1,0 +1,1 @@
+# inventorymanagement_frontend
