@@ -1,1 +1,1 @@
-# inventorymanagement_frontend
+# inventorymanagement_project
